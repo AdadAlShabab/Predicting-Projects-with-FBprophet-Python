@@ -24,13 +24,13 @@ To get started with the projects in this repository, you'll need to install the 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/prediction-projects-fbprophet.git
+   git clone https://github.com/AdadAlShabab/Predicting-Projects-with-FBprophet-Python.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd prediction-projects-fbprophet
+   cd predicting-projects-with-fbprophet-python
    ```
 
 3. Create a virtual environment (optional but recommended):
@@ -69,19 +69,16 @@ Additionally, you can use the provided Jupyter notebooks or Python scripts to ex
 
 Here's a list of prediction projects included in this repository:
 
-1. [Financial Market Price Prediction](projects/financial_market_prediction/README.md)
-   - Forecasting stock prices and trends.
+1. [Financial Market SAles Price Prediction]
+   - Forecasting sales prices and trends.
 
-2. [Weather Forecasting](projects/weather_forecasting/README.md)
-   - Predicting weather conditions and temperatures.
+2. [North America's Cancer Prediction]
+   - Predicting Cancer forecast.
 
-3. [Sales Forecasting](projects/sales_forecasting/README.md)
-   - Forecasting sales data for retail businesses.
-
-4. [Energy Consumption Prediction](projects/energy_consumption/README.md)
-   - Predicting energy consumption patterns.
-
-[**Explore the projects →**](projects)
+3. [Tempurature Prediction.]
+   - Forecasting temperature of next 400 days.
+   - 
+[**  Stay tuned for more →**]
 
 ## Contributing
 
