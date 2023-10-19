@@ -77,7 +77,7 @@ Here's a list of prediction projects included in this repository:
 
 3. [Tempurature Prediction.]
    - Forecasting temperature of next 400 days.
-   - 
+     
 [**  Stay tuned for more →**]
 
 ## Contributing
