@@ -1,4 +1,5 @@
 # Prediction Projects using FBProphet & Python
+
 This repository contains a collection of prediction projects developed using the FBProphet library in Python. FBProphet is a powerful time series forecasting tool developed by Facebook, designed to handle various time series forecasting tasks with ease.
 
 ## Table of Contents
